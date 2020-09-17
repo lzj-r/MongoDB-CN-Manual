@@ -187,5 +187,5 @@
 | 17.1 [Release Notes for MongoDB 4.2](https://docs.mongodb.com/v4.2/release-notes/4.2/) |          |        |      |
 | 17.2 [Release Notes for MongoDB 4.0](https://docs.mongodb.com/v4.2/release-notes/4.0/) |          |        |      |
 | 17.3 [Release Notes for MongoDB 3.6](https://docs.mongodb.com/v4.2/release-notes/3.6/) |          |        |      |
-| 17.4 [MongoDB Versioning](https://docs.mongodb.com/v4.2/reference/versioning/) |          |        |      |
+| 17.4 [MongoDB Versioning](https://docs.mongodb.com/v4.2/reference/versioning/) |  罗治军    |        |      |
 
